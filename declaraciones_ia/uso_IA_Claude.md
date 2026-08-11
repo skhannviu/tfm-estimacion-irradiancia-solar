@@ -14,4 +14,4 @@ La herramienta **Claude Opus (Anthropic)** se ha empleado como asistente para la
 | **Traducción técnica** | *Abstract* del proyecto | Apoyo en la traducción fiel del resumen final corregido al inglés. |
 
 ## 3. Declaración de autoría
-Las decisiones relativas al planteamiento de hipótesis, análisis sintáctico de resultados, fundamentación de discusiones teóricas y alcance final de las limitaciones son fruto de la investigación independiente de la autora. Todas las recomendaciones y adaptaciones sugeridas por Claude fueron validadas y supervisadas antes de su inclusión definitiva en la memoria.
+Las decisiones relativas al planteamiento de hipótesis, análisis e interpretación de resultados, fundamentación de discusiones teóricas y alcance final de las limitaciones son fruto de la investigación independiente de la autora. Todas las recomendaciones y adaptaciones sugeridas por Claude fueron validadas y supervisadas antes de su inclusión definitiva en la memoria.
