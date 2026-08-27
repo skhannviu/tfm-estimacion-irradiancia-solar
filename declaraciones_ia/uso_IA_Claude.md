@@ -18,7 +18,7 @@ La herramienta **Claude Opus (Anthropic)** se ha empleado como asistente para la
 > "Revisa este párrafo de la sección de Metodología y sugiere mejoras de
 > estilo académico, manteniendo el contenido técnico sin alterarlo."
 
-Este tipo de solicitud, centrada en corrección de forma sobre un texto ya redactado por la autora, es representativo del uso dado a la herramienta a lo largo del proyecto.
+Este tipo de solicitud, centrada en corrección de forma sobre un texto ya redactado, es representativo del uso dado a la herramienta a lo largo del proyecto.
 
 ## 4. Declaración de autoría
-Las decisiones relativas al planteamiento de hipótesis, análisis e interpretación de resultados, fundamentación de discusiones teóricas y alcance final de las limitaciones son fruto de la investigación independiente de la autora. Todas las recomendaciones y adaptaciones sugeridas por Claude fueron validadas y supervisadas antes de su inclusión definitiva en la memoria.
+Las decisiones relativas al planteamiento de hipótesis, análisis e interpretación de resultados, fundamentación de discusiones teóricas y alcance final de las limitaciones son fruto de la investigación independiente. Todas las recomendaciones y adaptaciones sugeridas por Claude fueron validadas y supervisadas antes de su inclusión definitiva en la memoria.
