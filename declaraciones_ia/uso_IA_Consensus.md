@@ -11,12 +11,17 @@ Durante la fase de investigación documental de este Trabajo Fin de Máster, la 
 | **Profundización técnica** | Junio 2026 | Aplicación de *machine learning* | Localización de artículos enfocados en el uso específico de algoritmos de aprendizaje automático para la estimación de recursos solares. |
 | **Comparativa metodológica** | Junio 2026 | Contraste de rendimiento | Consultas avanzadas (formuladas en inglés para maximizar el alcance en literatura internacional) orientadas a comparar la precisión entre modelos físicos tradicionales y *machine learning*. |
 
-## 3. Ejemplo ilustrativo de búsqueda
+## 3. Ejemplos representativos de búsqueda
 
-> "Machine learning models for direct normal irradiance estimation from
-> global horizontal irradiance decomposition"
+> "Necesito artículos sobre la estimación de la irradiancia solar."
 
-Consulta representativa del tipo de búsqueda empleada durante la fase de profundización técnica, formulada en inglés para maximizar el alcance en literatura internacional.
+> "Uso de machine learning para estimar la irradiancia solar."
+
+> "Does machine learning outperform physical models for solar
+> irradiance estimation?"
+
+La primera búsqueda corresponde a la fase de exploración preliminar; la segunda, a la fase de profundización técnica; la
+última, formulada en inglés para maximizar el alcance en literatura internacional, a la fase de comparativa metodológica.
 
 ## 4. Declaración de autoría
-Consensus se ha empleado de forma exclusiva como motor de recuperación de información inicial. La criba definitiva de los artículos, su lectura crítica, el filtrado de la validez de las fuentes y la síntesis e integración de los conceptos en la memoria son resultado del trabajo de investigación independiente.
+Consensus se ha empleado de forma exclusiva como motor de recuperación de información inicial. La criba definitiva de los artículos, su lectura crítica, el filtrado de la validez de las fuentes y la síntesis e integración de los conceptos en la memoria son de elaboración propia.
