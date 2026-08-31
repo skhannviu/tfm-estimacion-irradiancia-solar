@@ -12,13 +12,30 @@ Durante la realización de este Trabajo Fin de Máster, la herramienta **Gemini 
 | **Revisión de marco teórico** | Mayo 2025 | Validación bibliográfica y conceptual | Búsqueda preliminar de referencias científicas, clarificación terminológica (ej. irradiancia vs. irradiación) y estructuración general del marco teórico. |
 | **Revisión crítica** | 2026 | Auditoría narrativa del *notebook* | Sugerencias para el ajuste de tono técnico en la interpretación de resultados y estructura de conclusiones de código. |
 
-## 3. Ejemplo ilustrativo de interacción
+## 3. Ejemplos representativos de interacción
 
-> "Este bloque de código lanza un KeyError al calcular el RMSE para
-> Random Forest sobre el conjunto de prueba. ¿Puedes ayudarme a
-> identificar el origen del error?"
+> **Implementación técnica** — "Ayúdame a adaptar la estructura del
+> código para incluir Random Forest, SVR, Gradient Boosting, MLP y
+> KNN."
 
-Este tipo de consulta, orientada a la depuración de un error concreto sobre código ya existente, es representativo del uso dado a la herramienta durante la fase de implementación técnica.
+> **Depuración y optimización** — "Este bloque de código lanza un
+> KeyError al calcular el RMSE para Random Forest sobre el conjunto
+> de prueba. ¿Puedes ayudarme a identificar el origen del error?"
+
+> **Depuración y optimización** — "Corrige el error en la función de
+> preprocesamiento del notebook."
+
+> **Revisión de marco teórico** — "Necesito ampliar mi bibliografía
+> con artículos sobre modelos de descomposición solar y aprendizaje
+> automático."
+
+> **Revisión de marco teórico** — "¿Es correcta esta distinción entre
+> irradiancia e irradiación?"
+
+> **Revisión crítica** — "¿Es correcto metodológicamente combinar
+> búsqueda aleatoria y búsqueda en rejilla según el modelo?"
+
+Estos ejemplos son representativos de las cuatro fases en que se empleó la herramienta: implementación de la estructura de código, depuración de errores concretos, apoyo en la revisión del marco teórico y validación crítica de decisiones metodológicas ya tomadas de manera propia.
 
 ## 4. Declaración de autoría
-El diseño experimental, la selección de la metodología, el filtrado y preprocesamiento de los datos, la evaluación de las métricas de rendimiento y la extracción de conclusiones son propios. Las sugerencias y códigos proporcionados por Gemini fueron revisados, probados e integrados manualmente tras verificar su correcto funcionamiento.
+El diseño experimental, la selección de la metodología, el filtrado y preprocesamiento de los datos, la evaluación de las métricas de rendimiento y la extracción de conclusiones son de elaboración propia. Las sugerencias y códigos proporcionados por Gemini fueron revisados, probados e integrados manualmente tras verificar su correcto funcionamiento.
