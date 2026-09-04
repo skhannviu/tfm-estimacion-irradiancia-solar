@@ -26,7 +26,7 @@ Los datos proceden del National Solar Radiation Database (NSRDB) del NREL, corre
 | Milán | Continental urbano | Test |
 | Viena | Continental templado | Test |
 
-Los datos pueden descargarse directamente desde el portal oficial: https://nsrdb.nrel.gov
+Los datos pueden descargarse directamente desde el portal oficial: https://nsrdb.nlr.gov
 
 ## Requisitos
 
